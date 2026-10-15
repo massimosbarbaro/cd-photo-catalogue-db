@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "CD: catalogue of photographs archived on CD (db, 2000)"
+version: "1.0"
+abstract: "A catalogue of photographs stored on CD-ROM: each photograph is recorded with CD number, photo number, date, code, description and place, and can be found by CD and photo number, code, date interval or place."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+date-released: "2000-03-15"
+repository-code: "https://github.com/massimosbarbaro/cd-photo-catalogue-access"
+keywords:
+  - "Microsoft Access"
+  - "photo archive"
+  - "catalogue"
+  - "CD-ROM"
+  - "legacy software"
